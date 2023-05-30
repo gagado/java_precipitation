@@ -9,4 +9,8 @@ public class StringUtils {
   public static String display() {
       return "111";
   }
+
+  public static String display01() {
+      return "2222";
+  }
 }

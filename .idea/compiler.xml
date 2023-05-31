@@ -10,8 +10,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="precipitation" target="1.5" />
-      <module name="precipitation-common" target="1.5" />
+      <module name="precipitation" target="8" />
+      <module name="precipitation-common" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
